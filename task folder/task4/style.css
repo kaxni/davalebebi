@@ -1,0 +1,111 @@
+body{
+    background-color: black;
+} 
+
+.div-clas1{
+   width: 100%;
+   height: 2000px;
+   border: solid 1px  red;
+   
+}
+.img-clas1{
+    position: absolute;
+    width: 304px;
+    height: 14px;
+    top: 32px;
+    margin-left: -178px;
+}
+.p-clas1{
+    width: 20px;
+    font-family: 'Source Serif 4';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 120%;
+    
+    color: #FFFFFF;
+}
+.p-clas2{
+    position: absolute;
+    width: 371px;
+    top: 70px;
+    left: 468px;
+
+    color: #FFFFFF;
+ 
+}
+.p-clas3{
+    width: 426px;
+    height: 30px;
+    margin: -91px;
+    margin-left: 537px;
+
+    font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+color: white;
+}
+.p-clas4{
+    margin: 149px;
+    margin-left: -11px;
+
+
+
+   font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 300px;
+    line-height: 103.5%;
+    color: #FFFFFF;
+}
+.p-clas5{  
+    width: 961px;
+    height: 132px;
+    margin-left: 300px;
+
+
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 128px;
+    line-height: 103.5%;
+    
+    
+    
+    color: #FFFFFF;
+    
+    
+}
+.p-clas6{ 
+    position: absolute;
+    width: 300px;
+    height: 200px; 
+    left: 1031px;
+
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 150%;
+
+color: #FFFFFF;
+
+}
+.div-2{
+    width: 336px;
+    height: 360px;
+    border: 1px solid red;
+}
+
+/* პრობლემა მაქვს ეს ვერ გავაკეთე სიმაღლეზე ეს ასოები ვერ დავსვი */
+/*და სტილები მივეცი ფონტს მაგრამ  border ვერ გამოვიყენე ზუსტად ისეტი ფონტი ვერ გავაკეთე
+*/
+.p-clas7{
+    width: 30px;
+    height: 30px;
+
+color: #FFFFFF;
+}
+    

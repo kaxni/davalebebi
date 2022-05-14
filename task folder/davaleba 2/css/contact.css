@@ -1,0 +1,47 @@
+
+a{
+    text-decoration: none;
+
+}
+.contact_list{
+    list-style-type: none;
+}
+.address-1{
+    position: absolute;
+width: 728px;
+height: 144px;
+right: 295px;
+top: 429px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 48px;
+
+color: #000000;
+}
+.ul-list{
+    position: absolute;
+width: 251px;
+height: 163px;
+left: 34px;
+top: 96px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 48px;
+
+}
+.header-icon{
+    position: absolute;
+width: 71px;
+height: 72px;
+left: 13px;
+top: 13px;
+}
+.red-1{
+    color: red;
+}

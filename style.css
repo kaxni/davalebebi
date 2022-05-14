@@ -1,0 +1,41 @@
+a{
+    text-decoration: none;
+    color: #000000;
+}
+
+
+.nav-class{
+    display: inline-block;
+    margin-left: -179px;
+    
+}
+.nav-class li {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    
+  }
+  .p-1{
+     width: 371px;
+     height: 96px;
+     margin-left: 39px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+  }
+  .ullist-2{
+      list-style-type: none;
+      text-align: center;
+
+      font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 70px;
+line-height: 105px;
+text-align: center;
+
+color: #000000;
+}

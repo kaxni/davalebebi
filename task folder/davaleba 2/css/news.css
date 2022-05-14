@@ -1,0 +1,162 @@
+a{
+    text-decoration: none;
+}
+.nav-nav{
+    position: absolute;
+width: 251px;
+height: 163px;
+left: 34px;
+top: 96px;
+list-style-type: none;
+}
+.header_logo{
+    position: absolute;
+width: 71px;
+height: 72px;
+left: 13px;
+top: 13px;
+}
+.nav-1{
+    color: red;
+}
+.bg-1{
+    position: absolute;
+width: 118px;
+height: 87px;
+left: 31px;
+top: 260px;
+}
+.c_25{
+    position: absolute;
+    
+width: 49px;
+height: 60px;
+left: 65px;
+top: 235px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+color: white;
+}
+.tve{
+    position: absolute;
+width: 76px;
+height: 48px;
+left: 46px;
+top: 305px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+
+color: #000000;
+}
+.h1-2{
+    position: absolute;
+width: 316px;
+height: 48px;
+left: 31px;
+top: 347px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 48px;
+}
+.bashi-achuki{
+    position: absolute;
+width: 202px;
+height: 274px;
+left: 31px;
+top: 442px;
+}
+.text-1{
+    position: absolute;
+width: 1000px;
+height: 315px;
+left: 34px;
+top: 736px;
+}
+.hr1{
+    position: absolute;
+width: 1396px;
+height: 0px;
+left: 30px;
+top: 880px;
+}
+.span1{
+    color: red;
+    font-size: 25px;
+}
+.span2{
+    font-size: 25px;
+}
+.bg2{
+    position: absolute;
+width: 118px;
+height: 87px;
+left: 34px;
+top: 985px;
+}
+.c_18{
+    position: absolute;
+width: 41px;
+height: 60px;
+left: 68px;
+top: 962px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+
+color: white;
+}
+.h1-3{
+    position: absolute;
+width: 316px;
+height: 48px;
+left: 34px;
+top: 1075px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 48px;
+}
+.foto1{
+    position: absolute;
+width: 181.02px;
+height: 274px;
+left: 34px;
+top: 1175px;
+}
+.p-1{
+    position: absolute;
+width: 1000px;
+height: 279px;
+left: 37px;
+top: 1455px;
+}
+.span3{
+    color: red;
+}
+.tve1{position: absolute;
+    width: 76px;
+    height: 48px;
+    left: 49px;
+    top: 1030px;
+
+    font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px
+}

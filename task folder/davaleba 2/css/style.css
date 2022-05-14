@@ -1,0 +1,38 @@
+
+
+a{
+    text-decoration: none; 
+
+}
+.nav_list{
+    list-style-type:  none;
+    position: absolute;
+width: 251px;
+height: 163px;
+left: 31px;
+top: 97px;
+}
+.nav-list1{
+    color: red;
+}
+.header-logo{
+    position: absolute;
+    width: 71px;
+    height: 72px;
+    left: 10px;
+    top: 14px;
+}
+.html-1{
+    position: absolute;
+width: 944px;
+height: 626px;
+left: 258px;
+top: 370px;
+}
+.h1-1{
+    position: absolute;
+width: 521px;
+height: 40px;
+left: 469px;
+top: 260px;
+}
